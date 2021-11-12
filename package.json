@@ -1,0 +1,37 @@
+{
+  "name": "hypebot",
+  "version": "1.0.0",
+  "description": "A discord bot topl ay songs\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[\u001b[D\u001b[D \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[play songs in a voice channel.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexistricot/hypebot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "sound",
+    "music",
+    "voice"
+  ],
+  "author": "A. Tricot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexistricot/hypebot/issues"
+  },
+  "homepage": "https://github.com/alexistricot/hypebot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@discordjs/voice": "^0.6.0",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "eslint": "^7.32.0",
+    "libsodium-wrappers": "^0.7.9",
+    "prettier": "^2.3.2"
+  }
+}

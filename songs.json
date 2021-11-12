@@ -1,0 +1,7 @@
+{
+  "example": {
+    "path": "./example.mp3",
+    "volume": 1,
+    "description": "An example song."
+  }
+}
